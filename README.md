@@ -9,7 +9,7 @@ how do we want to test this?
 3. 'testnet' 
 
 
-                          ###  lottery application
+##  lottery application
 where anybody can enter and a random winner selected.
 
 
